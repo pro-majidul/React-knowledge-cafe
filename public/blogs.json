@@ -1,0 +1,52 @@
+[
+    {
+        "id": "001",
+        "cover": "https://images.unsplash.com/photo-1512902671776-7e1c5b7f1f2f",
+        "title": "The Whispering Shadows",
+        "author": "Jane Doe",
+        "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
+        "posted_date": "2024-10-01",
+        "reading_time": 15,
+        "hashtag": "#Mystery"
+    },
+    {
+        "id": "002",
+        "cover": "https://images.unsplash.com/photo-1529400070044-70a8efb0b1d1",
+        "title": "Journey Through Time",
+        "author": "John Smith",
+        "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+        "posted_date": "2024-09-20",
+        "reading_time": 20,
+        "hashtag": "#SciFi"
+    },
+    {
+        "id": "003",
+        "cover": "https://images.unsplash.com/photo-1495431341343-5c0db2d5274d",
+        "title": "Heartstrings",
+        "author": "Emily Johnson",
+        "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+        "posted_date": "2024-08-15",
+        "reading_time": 10,
+        "hashtag": "#Romance"
+    },
+    {
+        "id": "004",
+        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "The Silent Forest",
+        "author": "Michael Lee",
+        "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
+        "posted_date": "2024-07-30",
+        "reading_time": 25,
+        "hashtag": "#Adventure"
+    },
+    {
+        "id": "005",
+        "cover": "https://images.unsplash.com/photo-1511771988481-46379b263b8e",
+        "title": "Echoes of the Past",
+        "author": "Sarah Williams",
+        "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+        "posted_date": "2024-06-05",
+        "reading_time": 30,
+        "hashtag": "#HistoricalFiction"
+    }
+]
