@@ -6,7 +6,7 @@ const Bookmarks = ({bookmarks ,readingdtime}) => {
         <div className="md:w-1/3 ">
             <div className="bg-gray-300 px-5 py-8 my-5 rounded-xl">
                
-            <h2 className="text-3xl font-bold bg-orange-200 rounded-xl p-5 mb-5 text-center">Reading times {readingdtime}</h2>
+            <h2 className="text-2xl text-[#6047EC] font-bold bg-[#EFECFD] rounded-xl p-5 mb-5 text-center border border-[#6047EC]">Spent Time on Read {readingdtime} Min</h2>
             <h2 className="text-3xl font-bold text-center">Booksmark Blogs {bookmarks.length}</h2>
             {
                bookmarks.map( bookmark => <Bookmark
